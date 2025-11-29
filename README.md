@@ -8,3 +8,4 @@ This portfolio includes:
 - Python automation and data analysis projects
 - Web scraping projects
 - Other programming and creative works
+Portifolio link https://tangerine-kleicha-134934.netlify.app/
